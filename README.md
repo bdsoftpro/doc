@@ -7,3 +7,9 @@ Documentation define to common way of recording and depicting the subtleties, de
 2. Go to Spinbot to remove ai detection
 3. Go to Zerogpt to assure ai detection
 4. Go to Duplichecker to assure plagiarism duplicacy
+
+
+1. Item 1
+2. Item 2
+  * Item 2a
+  * Item 2b
