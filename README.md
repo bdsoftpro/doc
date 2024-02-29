@@ -9,7 +9,6 @@ Documentation define to common way of recording and depicting the subtleties, de
 4. Go to Duplichecker to assure plagiarism duplicacy
 
 
-1. Item 1
-2. Item 2
-  * Item 2a
-  * Item 2b
+1. Nested
+    1. Bullet
+        1. List
